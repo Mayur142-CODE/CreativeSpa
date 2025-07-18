@@ -85,7 +85,7 @@
 | Layer        | Technology         |
 |--------------|--------------------|
 | Backend      | Laravel (MVC)      |
-| Frontend     | Livewire, Bootstrap 5 |
+| Frontend     | Vuext Theme
 | Database     | MySQL              |
 | Interactivity| AJAX               |
 | Import/Export| Laravel Excel      |
