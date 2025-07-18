@@ -85,7 +85,7 @@
 | Layer        | Technology         |
 |--------------|--------------------|
 | Backend      | Laravel (MVC)      |
-| Frontend     | Vuext Theme
+| Frontend     | Vuexy Theme
 | Database     | MySQL              |
 | Interactivity| AJAX               |
 | Import/Export| Laravel Excel      |
